@@ -1,6 +1,4 @@
 # MediaPlayer-Android-Application
-
-<img src="https://img.shields.io/github/stars/SubramanyaKS/MediaPlayer-Android-Application" alt ="Star">
  
 
 In this MediaPlayer Application we have provided Two featues , one is MUSIC PLAYER and another is VIDEO PLAYER  
@@ -14,8 +12,6 @@ It consist of one Image , Seekbar, Play/Pause button , forward and backward Imag
 ### Video Player
 When we click on the VideoPlayer button in main page it will navigate to this page.  
 It will play the video provided in the raw folder. It has a basic actions like play/pause ,forward and backward.  
-
-<a href="https://youtu.be/4RHQEfGTVj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 
 If you like repository ⭐ the repository.
 Thank You
